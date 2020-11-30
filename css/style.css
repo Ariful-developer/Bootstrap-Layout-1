@@ -1,0 +1,54 @@
+
+
+/*header*/
+.col-md-3{
+	height: 150px;
+	background-color: red;
+	text-align: center;
+}
+.col-md-3 h2{
+	font-size: 50px;
+	margin-top: 30px;
+
+}
+.col-md-9{
+	height: 150px;
+	background-color: blue;
+	text-align: center;
+}
+.col-md-9 h2{
+	font-size: 50px;
+	margin-top: 30px;
+
+}
+
+/*banner*/
+.col{
+	height: 500px;
+	background-color: black;
+}
+.col h2{
+	color: white;
+	font-size: 80px;
+	text-align: center;
+	margin-top: 150px;
+
+}
+
+/*about*/
+.about{
+	background-color: lime;
+
+}
+.col-11{
+	height: 500px;
+	background-color: silver;
+}
+.col-11 h2{
+	font-size: 60px;
+	text-align: center;
+}
+.col-5{
+	height: 400px;
+	background-color: navy;
+}
